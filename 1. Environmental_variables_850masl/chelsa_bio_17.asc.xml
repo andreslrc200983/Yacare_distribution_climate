@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20180614</CreaDate><CreaTime>22213000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Raster to ASCII" ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToASCII" Date="20180614" Time="222130">RasterToASCII C:\Users\user\Desktop\THESIS\MOD_LAYERS_1\CHELSA_bio_17.tif C:\Users\user\Desktop\THESIS\ASCI_LAYERS_1\CHELSA_bio_17.tif.asc</Process></lineage></DataProperties></Esri></metadata>
